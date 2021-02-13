@@ -1,0 +1,16 @@
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\bin\Debug\net5.0\01_NumbersInCSharp.exe
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\bin\Debug\net5.0\01_NumbersInCSharp.deps.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\bin\Debug\net5.0\01_NumbersInCSharp.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\bin\Debug\net5.0\01_NumbersInCSharp.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\bin\Debug\net5.0\01_NumbersInCSharp.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\bin\Debug\net5.0\ref\01_NumbersInCSharp.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\bin\Debug\net5.0\01_NumbersInCSharp.pdb
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\ref\01_NumbersInCSharp.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.pdb
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\01_NumbersInCSharp\obj\Debug\net5.0\01_NumbersInCSharp.genruntimeconfig.cache
