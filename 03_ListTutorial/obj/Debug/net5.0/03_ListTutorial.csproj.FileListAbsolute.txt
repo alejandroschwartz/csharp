@@ -1,0 +1,16 @@
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\bin\Debug\net5.0\03_ListTutorial.exe
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\bin\Debug\net5.0\03_ListTutorial.deps.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\bin\Debug\net5.0\03_ListTutorial.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\bin\Debug\net5.0\03_ListTutorial.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\bin\Debug\net5.0\03_ListTutorial.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\bin\Debug\net5.0\ref\03_ListTutorial.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\bin\Debug\net5.0\03_ListTutorial.pdb
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\ref\03_ListTutorial.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.pdb
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\03_ListTutorial\obj\Debug\net5.0\03_ListTutorial.genruntimeconfig.cache
