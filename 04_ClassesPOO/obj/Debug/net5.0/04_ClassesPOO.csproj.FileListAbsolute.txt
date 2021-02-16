@@ -1,0 +1,16 @@
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\bin\Debug\net5.0\04_ClassesPOO.exe
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\bin\Debug\net5.0\04_ClassesPOO.deps.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\bin\Debug\net5.0\04_ClassesPOO.runtimeconfig.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\bin\Debug\net5.0\04_ClassesPOO.runtimeconfig.dev.json
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\bin\Debug\net5.0\04_ClassesPOO.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\bin\Debug\net5.0\ref\04_ClassesPOO.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\bin\Debug\net5.0\04_ClassesPOO.pdb
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.csprojAssemblyReference.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.AssemblyInfoInputs.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.AssemblyInfo.cs
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.csproj.CoreCompileInputs.cache
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\ref\04_ClassesPOO.dll
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.pdb
+C:\Users\Augusto D.j\Desktop\Paginas\csharp\04_ClassesPOO\obj\Debug\net5.0\04_ClassesPOO.genruntimeconfig.cache
